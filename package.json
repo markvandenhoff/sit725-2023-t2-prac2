@@ -1,0 +1,22 @@
+{
+  "name": "sit725-2023-t2-prac2",
+  "version": "1.0.0",
+  "description": "prac2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markvandenhoff/sit725-2023-t2-prac2.git"
+  },
+  "author": "Mark Vandenhoff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markvandenhoff/sit725-2023-t2-prac2/issues"
+  },
+  "homepage": "https://github.com/markvandenhoff/sit725-2023-t2-prac2#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
