@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/markvandenhoff/sit725-2023-t2-prac2#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.6"
   }
 }
